@@ -1,0 +1,55 @@
+.box1 {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 200px;
+}
+.box1 img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    box-shadow: 0 0 5px -15px rgba(0,0,0,0.2);
+    transition: all 2s;
+}
+.cantiner {
+    display: flex;
+}
+
+.box2 {
+    background-color: wheat;
+    width: 500px;
+}
+
+.box1 img:hover {
+    transform: scale(1.5);
+
+}
+
+
+.foto1 {
+    width: 200px;
+    height: 200px;
+    transition: all 3s;
+}
+
+.foto1:hover {
+    width: 300px;
+    height: 300px;
+}
+
+.foto2 {
+    width: 200px;
+    height: 200px;
+    transition: all 3s;
+}
+
+
+.foto2:hover {
+    width: 300px;
+    height: 300px;
+}
+
+
+
